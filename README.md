@@ -33,6 +33,10 @@ Install pymongo, the mongodb driver:
 	
 	$ sudo pip3 install pymongo
 
+Install passlib:
+        
+        $ sudo pip3 install passlib
+
 ###### Mongodb
 
 You need to install MongoDB 2.6 You can find instructions on how to do so [here](https://docs.mongodb.org/v2.6/tutorial/install-mongodb-on-ubuntu/).
